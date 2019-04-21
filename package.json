@@ -1,5 +1,5 @@
 {
-  "name": "wdio-cucumber-framework",
+  "name": "supercrabtree-wdio-cucumber-framework",
   "version": "2.2.8",
   "description": "A WebdriverIO plugin. Adapter for Cucumber testing framework.",
   "main": "build/adapter.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webdriverio/wdio-cucumber-framework.git"
+    "url": "git+https://github.com/supercrabtree/wdio-cucumber-framework.git"
   },
   "keywords": [
     "cucumber",
@@ -35,9 +35,9 @@
   "author": "Christian Bromann <christian@saucelabs.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webdriverio/wdio-cucumber-framework/issues"
+    "url": "https://github.com/supercrabtree/wdio-cucumber-framework/issues"
   },
-  "homepage": "https://github.com/webdriverio/wdio-cucumber-framework#readme",
+  "homepage": "https://github.com/supercrabtree/wdio-cucumber-framework#readme",
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "cucumber": "^4.1.0",
